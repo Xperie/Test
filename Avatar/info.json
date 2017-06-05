@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "Me",
+    "DESCRIPTION" : "Cycles Avatar every X seconds.\nLimited to owner.\nSee [prefix]help Avatar for details.",
+    "DISABLED" : false,
+    "NAME" : "Avatar Cycler"
+}
